@@ -39,4 +39,4 @@ A curated list of tools, languages, and frameworks I use in data science, machin
 
 ---
 
-> Feel free to explore my [projects](https://github.com/lethimyhang?tab=repositories) to see how I use these tools in action!
+> Feel free to explore **to be continued**
